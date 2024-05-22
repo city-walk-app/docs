@@ -11,5 +11,15 @@ export const sidebar = {
         { text: '收入来源', link: '/docs/4' },
       ]
     }
+  ],
+  '/team/': [
+    {
+      text: '团队',
+      collapsible: true,
+      link: '/team/1',
+      items: [
+        { text: '团队成员', link: '/team/1' },
+      ]
+    }
   ]
 }

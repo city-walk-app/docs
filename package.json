@@ -1,13 +1,12 @@
 {
-  "name": "vitepress-template",
+  "name": "docs",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "serve": "vitepress serve"
   },
-  "license": "MIT",
   "dependencies": {
-    "vitepress": "1.0.0-rc.34",
+    "vitepress": "^1.2.2",
     "vue": "^3.4.3"
   },
   "devDependencies": {
