@@ -8,5 +8,10 @@ export const nav = [
     text: '团队',
     activeMatch: '/team/',
     link: '/team/1'
+  },
+  {
+    text: '加入我们',
+    activeMatch: '/join/',
+    link: '/join/1'
   }
 ]
