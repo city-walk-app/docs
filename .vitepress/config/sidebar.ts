@@ -8,6 +8,7 @@ export const sidebar = {
         { text: '需求文档', link: '/docs/2' },
         { text: '开发计划', link: '/docs/3' },
         { text: '收入来源', link: '/docs/4' },
+        { text: '里程碑', link: '/docs/5' },
       ]
     }
   ],
