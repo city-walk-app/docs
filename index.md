@@ -16,7 +16,7 @@ hero:
       link: https://github.com/city-walk-app
 
   image:
-    src: /public/Logo.png
+    src: /Logo.png
 
 features:
   - icon: 📝
